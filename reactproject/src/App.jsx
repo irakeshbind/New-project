@@ -12,7 +12,7 @@ const App = () => {
         <Navbar/>
         <Hero/>
         <div className='container'>
-        <Title subtitle="OUR PROGRAM" title="Wht We offer"/>
+        <Title subtitle="OUR your PROGRAM" title="Wht We offer"/>
         <Programs/>
         <About/>
         <Title subtitle="Gallery " title="Campus Phostos"/>
