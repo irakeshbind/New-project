@@ -37,7 +37,7 @@ const Testimonial = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eos itaque velit laudantium rerum molestias nulla cum obcaecati error unde natus corrupti consectetur, quos fugit neque aut dolorem quo reiciendis illum laboriosam, provident eius! Dolores delectus facere reprehenderit quos explicabo!</p>
+                        <p>your ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eos itaque velit laudantium rerum molestias nulla cum obcaecati error unde natus corrupti consectetur, quos fugit neque aut dolorem quo reiciendis illum laboriosam, provident eius! Dolores delectus facere reprehenderit quos explicabo!</p>
                     </div>
                 </li>
 
