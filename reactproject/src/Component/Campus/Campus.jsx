@@ -14,6 +14,10 @@ const Campus = () => {
             <img src={gallery2} alt="" className='campusimg' />
             <img src={gallery3} alt="" className='campusimg' />
             <img src={gallery4} alt="" className='campusimg' />
+            <img src={gallery4} alt="" className='campusimg' />
+            <img src={gallery2} alt="" className='campusimg' />
+            <img src={gallery3} alt="" className='campusimg' />
+            <img src={gallery4} alt="" className='campusimg' />
         </div>
         <button className='btn1'>See more here<img src={arrow}alt="" classname="arrows" /></button>
     </div>
