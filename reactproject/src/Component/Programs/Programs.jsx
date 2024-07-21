@@ -30,7 +30,7 @@ const Programs = () => {
       <div className='caption'>
         <img src={img33} alt=""className="logo-m"/>
         
-        <p>Graduvation Degree</p>
+        <p>Post Degree</p>
       </div>
      </div>
      </div>
